@@ -1,12 +1,9 @@
 # Meu Segundo Cerebro
 
-Como montar uma estrutura de Segundo Cérebro?
-
-Como usufruir do Segundo Cérebro e mantê-lo sempre vivo, fresco e dinâmico para conseguir explorá-lo para conseguir novas ideias?
-
-Ferramentas são importantes mas método e disciplina também são necessários, bem como um fluxo de trabalho (_workflow_).
-
-Para mim a forma também é muito importante, então, vai ser legal trabalhar com modelos (_templates_) e _plugins_ que façam sentido e que ajudem a acelerar as anotações.
+- Como montar uma estrutura de Segundo Cérebro?
+- Como usufruir do Segundo Cérebro e mantê-lo sempre vivo, fresco e dinâmico para conseguir explorá-lo para conseguir novas ideias?
+- Ferramentas são importantes mas método e disciplina também são necessários, bem como um fluxo de trabalho (_workflow_).
+- Para mim a forma também é muito importante, então, vai ser legal trabalhar com modelos (_templates_) e _plugins_ que façam sentido e que ajudem a acelerar as anotações.
 
 Ferramentas:
 

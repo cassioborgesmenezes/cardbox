@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/Zettelkasten.md",
+                "file": "_templates/tpl.zettel.literature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87b7a49769d9aa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/fleeting/Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b47f29f2a68707a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/literature/Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c036472e79b214f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/tpl.zettel.permanent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e934585b3595284b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/tpl.zettel.fleeting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/fleeting/Zettelkasten.md",
+                "file": "notes/literature/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/fleeting/Zettelkasten.md",
+                "file": "notes/literature/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/fleeting/Zettelkasten.md"
+                "file": "notes/literature/Obsidian.md"
               }
             }
           }
@@ -141,15 +194,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d3976789125a438",
+  "active": "4b47f29f2a68707a",
   "lastOpenFiles": [
+    "notes/permanent/Obsidian.md",
+    "_templates/tpl.zettel.permanent.md",
+    "_templates/tpl.zettel.fleeting.md",
+    "notes/literature/Obsidian.md",
     "notes/fleeting/Obsidian.md",
+    "_templates/tpl.zettel.literature.md",
     "notes/fleeting/Meu Segundo Cerebro.md",
+    "notes/fleeting/Zettelkasten.md",
     "README.md",
     "_templates",
     "_attachments",
-    "notes/permanent/Obsidian.md",
-    "notes/fleeting/Zettelkasten.md",
     "notes/permanent",
     "notes/literature",
     "notes/fleeting",
