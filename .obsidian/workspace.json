@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d3976789125a438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/tpl.zettel.literature.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "87b7a49769d9aa23",
             "type": "leaf",
             "state": {
@@ -47,25 +34,12 @@
             }
           },
           {
-            "id": "c036472e79b214f8",
+            "id": "20e825d31ea6c44f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/tpl.zettel.permanent.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e934585b3595284b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/tpl.zettel.fleeting.md",
+                "file": "notes/fleeting/Markdown.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,8 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -180,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +172,15 @@
   },
   "active": "4b47f29f2a68707a",
   "lastOpenFiles": [
+    "notes/fleeting/Markdown.md",
+    "notes/fleeting/Obsidian.md",
+    "notes/literature/Obsidian.md",
+    "_templates/tpl.zettel.fleeting.md",
+    "_templates/tpl.datetime.md",
+    "_templates/tpl.time.md",
+    "_templates/tpl.date.md",
     "notes/permanent/Obsidian.md",
     "_templates/tpl.zettel.permanent.md",
-    "_templates/tpl.zettel.fleeting.md",
-    "notes/literature/Obsidian.md",
-    "notes/fleeting/Obsidian.md",
     "_templates/tpl.zettel.literature.md",
     "notes/fleeting/Meu Segundo Cerebro.md",
     "notes/fleeting/Zettelkasten.md",

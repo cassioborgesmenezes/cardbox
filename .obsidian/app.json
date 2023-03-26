@@ -1,7 +1,14 @@
 {
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "notes/fleeting",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "spellcheck": true
 }
