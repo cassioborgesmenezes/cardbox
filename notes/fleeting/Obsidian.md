@@ -35,5 +35,9 @@ modified: 2023-03-16, 17:34
 ## Referências
 <!-- Links to pages not referenced in the content -->
 
+- [6 Useful Templates for Obsidian](https://filipedonadio.com/6-useful-templates-for-obsidian/)
 - [7 Obsidian Templates to Streamline Your Notes](https://medium.com/@dianademco/7-obsidian-templates-to-streamline-your-notes-ab3a3c8757be)
+- [7 Obsidian Templates That Supercharge My Second Brain](https://beingpax.medium.com/7-obsidian-templates-that-supercharge-my-second-brain-d73102c5a9af)
 - [Ultimate Guide to Obsidian Templates (with Examples)](https://facedragons.com/productivity/obsidian-templates-with-examples/)
+- [[16 Obsidian Templates For Zettelkasten To Start With](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/49098)](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/49098)
+- [Obsidian Help](https://help.obsidian.md/Obsidian/Index)
