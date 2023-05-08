@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b47f29f2a68707a",
+            "id": "eae71ce62de87219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/Data Warehousing.md",
+                "file": "_work/meeting/20230508-narwal-kickoff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d1ad1a103da65c26",
+            "id": "164788b911b58b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/Obsidian.md",
+                "file": "_work/meeting/20230424-inventario-logistica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,6 +71,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "871994568eed9010",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -92,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/fleeting/Data Warehousing.md",
+                "file": "_work/meeting/20230508-narwal-kickoff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/fleeting/Data Warehousing.md",
+                "file": "_work/meeting/20230508-narwal-kickoff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/fleeting/Data Warehousing.md"
+                "file": "_work/meeting/20230508-narwal-kickoff.md"
               }
             }
           }
@@ -156,14 +164,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b47f29f2a68707a",
+  "active": "eae71ce62de87219",
   "lastOpenFiles": [
+    "_work/meeting/20230424-narwal.md",
+    "_work/meeting/20230508-narwal-kickoff.md",
+    "_work/meeting/20230424-inventario-logistica.md",
     "notes/fleeting/Obsidian.md",
+    "_work/meeting/20230505-itone.md",
+    "_work/meeting/20230505-apresentacao-mega-senior.md",
+    "notes/fleeting/Greeting.md",
     "notes/fleeting/Data Warehousing.md",
+    "_work/meeting/20230411-mrp.md",
+    "_work/meeting/20230417-flow-solicitacao-compra.md",
+    "_work/meeting/20230411-proxion.md",
+    "Pasted image 20230411141142.png",
+    "_templates/tpl.zettel.fleeting.md",
+    "_templates/tpl.meeting.md",
+    "_work/meeting",
+    "Untitled",
+    "_work",
     "notes/fleeting/Zettelkasten.md",
     "notes/fleeting/Markdown.md",
     "notes/literature/Obsidian.md",
-    "_templates/tpl.zettel.fleeting.md",
     "_templates/tpl.datetime.md",
     "_templates/tpl.time.md",
     "_templates/tpl.date.md",
