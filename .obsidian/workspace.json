@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/meeting/20230508-narwal-kickoff.md",
+                "file": "_work/meeting/20230508-azship-integracao.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/meeting/20230508-narwal-kickoff.md",
+                "file": "_work/meeting/20230508-azship-integracao.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/meeting/20230508-narwal-kickoff.md",
+                "file": "_work/meeting/20230508-azship-integracao.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/meeting/20230508-narwal-kickoff.md"
+                "file": "_work/meeting/20230508-azship-integracao.md"
               }
             }
           }
@@ -166,9 +166,10 @@
   },
   "active": "eae71ce62de87219",
   "lastOpenFiles": [
-    "_work/meeting/20230424-narwal.md",
-    "_work/meeting/20230508-narwal-kickoff.md",
     "_work/meeting/20230424-inventario-logistica.md",
+    "_work/meeting/20230508-azship-integracao.md",
+    "_work/meeting/20230508-narwal-kickoff.md",
+    "_work/meeting/20230424-narwal.md",
     "notes/fleeting/Obsidian.md",
     "_work/meeting/20230505-itone.md",
     "_work/meeting/20230505-apresentacao-mega-senior.md",
