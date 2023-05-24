@@ -1,7 +1,7 @@
 ---
 id: 202304241015
 alias: 
-tags: meeting wms inventario
+tags: meeting erp/wms erp/inventario
 
 created: 2023-04-24, 10:15
 modified: 2023-04-24, 10:15

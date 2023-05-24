@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53287e5cbddbfb97",
+        "id": "95609b2144be2af5",
         "type": "tabs",
         "children": [
           {
-            "id": "eae71ce62de87219",
+            "id": "d832b49b8e2f8dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/meeting/20230508-azship-integracao.md",
+                "file": "notes/fleeting/Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "164788b911b58b17",
+            "id": "bda0a4fc561d9080",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/meeting/20230424-inventario-logistica.md",
+                "file": "_work/meeting/20230523-itone-switchover.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/meeting/20230508-azship-integracao.md",
+                "file": "_work/meeting/20230523-itone-switchover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/meeting/20230508-azship-integracao.md",
+                "file": "_work/meeting/20230523-itone-switchover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/meeting/20230508-azship-integracao.md"
+                "file": "_work/meeting/20230523-itone-switchover.md"
               }
             }
           }
@@ -149,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,9 +164,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eae71ce62de87219",
+  "active": "bda0a4fc561d9080",
   "lastOpenFiles": [
+    "notes/fleeting/Git.md",
+    "_work/meeting/20230523-itone-switchover.md",
+    "_learning/santander-letscode-2023/01. Git e Versionamento.md",
+    "notes/fleeting/Version Controle System.md",
+    "_templates/tpl.course.md",
+    "_templates/tpl.meeting.md",
+    "_templates/tpl.datetime.md",
+    "_templates/tpl.date.md",
+    "_templates/tpl.zettel.fleeting.md",
+    "_templates/tpl.zettel.literature.md",
+    "_templates/tpl.zettel.permanent.md",
+    "_work/meeting/20230519-ponto-icarus.md",
+    "_learning/santander-letscode-2023",
+    "_learning",
     "_work/meeting/20230424-inventario-logistica.md",
+    "_work/meeting/20230417-flow-solicitacao-compra.md",
+    "_work/meeting/20230411-proxion.md",
+    "_work/meeting/20230411-mrp.md",
+    "notes/fleeting/Enum.md",
+    "_work/meeting/20230519-lg.md",
+    "_work/meeting/20230511-master-estoque.md",
     "_work/meeting/20230508-azship-integracao.md",
     "_work/meeting/20230508-narwal-kickoff.md",
     "_work/meeting/20230424-narwal.md",
@@ -174,27 +194,9 @@
     "_work/meeting/20230505-itone.md",
     "_work/meeting/20230505-apresentacao-mega-senior.md",
     "notes/fleeting/Greeting.md",
-    "notes/fleeting/Data Warehousing.md",
-    "_work/meeting/20230411-mrp.md",
-    "_work/meeting/20230417-flow-solicitacao-compra.md",
-    "_work/meeting/20230411-proxion.md",
     "Pasted image 20230411141142.png",
-    "_templates/tpl.zettel.fleeting.md",
-    "_templates/tpl.meeting.md",
     "_work/meeting",
-    "Untitled",
     "_work",
-    "notes/fleeting/Zettelkasten.md",
-    "notes/fleeting/Markdown.md",
-    "notes/literature/Obsidian.md",
-    "_templates/tpl.datetime.md",
-    "_templates/tpl.time.md",
-    "_templates/tpl.date.md",
-    "notes/permanent/Obsidian.md",
-    "_templates/tpl.zettel.permanent.md",
-    "_templates/tpl.zettel.literature.md",
-    "notes/fleeting/Meu Segundo Cerebro.md",
-    "README.md",
     "_templates",
     "_attachments",
     "notes/permanent",

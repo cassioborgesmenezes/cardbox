@@ -1,7 +1,7 @@
 ---
 id: 202304170914
 alias: 
-tags: meeting compra 
+tags: meeting erp/compras erp/flow
 
 created: 2023-04-17, 09:14
 modified: 2023-04-17, 09:14
