@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d832b49b8e2f8dc7",
+            "id": "9faa0a7204a865fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/Git.md",
+                "file": "_work/meeting/20230629-prodwin-kickoff.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "bda0a4fc561d9080",
+            "id": "9294c7fb659cecc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/meeting/20230523-itone-switchover.md",
+                "file": "_work/projects/Prodwin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5
   },
   "right": {
     "id": "93a115ce5d46c07b",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/meeting/20230523-itone-switchover.md",
+                "file": "_work/projects/Prodwin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/meeting/20230523-itone-switchover.md",
+                "file": "_work/projects/Prodwin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/meeting/20230523-itone-switchover.md"
+                "file": "_work/projects/Prodwin.md"
               }
             }
           }
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,36 +165,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda0a4fc561d9080",
+  "active": "9294c7fb659cecc2",
   "lastOpenFiles": [
-    "notes/fleeting/Git.md",
-    "_work/meeting/20230523-itone-switchover.md",
-    "_learning/santander-letscode-2023/01. Git e Versionamento.md",
-    "notes/fleeting/Version Controle System.md",
-    "_templates/tpl.course.md",
-    "_templates/tpl.meeting.md",
-    "_templates/tpl.datetime.md",
-    "_templates/tpl.date.md",
-    "_templates/tpl.zettel.fleeting.md",
-    "_templates/tpl.zettel.literature.md",
-    "_templates/tpl.zettel.permanent.md",
-    "_work/meeting/20230519-ponto-icarus.md",
-    "_learning/santander-letscode-2023",
-    "_learning",
-    "_work/meeting/20230424-inventario-logistica.md",
-    "_work/meeting/20230417-flow-solicitacao-compra.md",
-    "_work/meeting/20230411-proxion.md",
-    "_work/meeting/20230411-mrp.md",
-    "notes/fleeting/Enum.md",
-    "_work/meeting/20230519-lg.md",
-    "_work/meeting/20230511-master-estoque.md",
+    "_work/projects/Narwal.md",
+    "_work/projects/Prodwin.md",
+    "_work/meeting/20230629-prodwin-kickoff.md",
+    "_work/projects/Ponto Icarus.md",
+    "notes/fleeting/Diagrama Entidade Relacionamento.md",
+    "_work/meeting/20230622-estoque-master.md",
     "_work/meeting/20230508-azship-integracao.md",
+    "_work/meeting/20230609-estoque-master.md",
+    "notes/fleeting/FHS Filesystem Hierarchy Standard.md",
+    "_work/meeting/20230621-narwal-integracao.md",
     "_work/meeting/20230508-narwal-kickoff.md",
     "_work/meeting/20230424-narwal.md",
-    "notes/fleeting/Obsidian.md",
-    "_work/meeting/20230505-itone.md",
-    "_work/meeting/20230505-apresentacao-mega-senior.md",
-    "notes/fleeting/Greeting.md",
+    "_work/meeting/20230620-limerpak-datadores.md",
+    "_work/meeting/20230525-adp-duediligence.md",
+    "_work/meeting/20230616-logistica-estoque.md",
+    "_work/meeting/20230424-inventario-logistica.md",
+    "notes/fleeting/BPMN.md",
+    "notes/fleeting/BPM.md",
+    "_work/meeting/20230614-sankhya-gestao-verbas.md",
+    "_work/meeting/20230614-inventario-logistica.md",
+    "_work/meeting/20230607-santander-api.md",
+    "_work/meeting/20230530-itone-monitoramento.md",
+    "notes/fleeting/Version Control System.md",
+    "notes/permanent/Obsidian.md",
+    "_work/meeting/20230526-ponto-icarus-kickoff.md",
+    "notes/literature/Obsidian.md",
+    "_work/projects",
+    "_learning/santander-letscode-2023",
+    "_learning",
     "Pasted image 20230411141142.png",
     "_work/meeting",
     "_work",
@@ -201,7 +203,6 @@
     "_attachments",
     "notes/permanent",
     "notes/literature",
-    "notes/fleeting",
-    "notes"
+    "notes/fleeting"
   ]
 }

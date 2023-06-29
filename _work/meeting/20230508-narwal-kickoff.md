@@ -1,7 +1,7 @@
 ---
 id: 202305081526
 alias: 
-tags: meeting narwal comex integracao
+tags: meeting erp/comex erp/integracao partner/narwal 
 
 created: 2023-05-08, 15:26
 modified: 2023-05-08, 15:26
@@ -23,6 +23,4 @@ Participantes: Luisa Eisner Weber, Clayton, Rafael, Thaynara, Marcela Spindola
 
 ## Ações
 
-- [ ] Meeting Notes Distributed to the Team
-- [ ] Tasks & Projects Completed, Processed or Delegated
-- [ ] Key Dates Completed or Scheduled
+- [ ] Equipe Narwal irá elaborar cronograma
