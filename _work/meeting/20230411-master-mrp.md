@@ -1,7 +1,7 @@
 ---
 id: 202304111528
 alias: 
-tags: meeting erp/mrp erp/estoque
+tags: meeting erp/mrp erp/estoque skala/master
 
 created: 2023-04-11, 15:28
 modified: 2023-04-11, 15:28

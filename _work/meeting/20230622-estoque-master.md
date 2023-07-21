@@ -1,7 +1,7 @@
 ---
 id: 202306220933
 alias: 
-tags: meeting
+tags: meeting erp/estoque skala/master
 
 created: 2023-06-22, 09:33
 modified: 2023-06-22, 09:33
