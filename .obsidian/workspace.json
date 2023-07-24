@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8023e1300c59c09d",
+        "id": "e39f383321e6a8ef",
         "type": "tabs",
         "children": [
           {
-            "id": "a53334f5fcaf1b3a",
+            "id": "398eb9df913dd967",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/meeting/20230721-juntos.md",
+                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12e1af6168e427d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/fleeting/Data Modeling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/meeting/20230721-juntos.md",
+                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/meeting/20230721-juntos.md",
+                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/meeting/20230721-juntos.md"
+                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md"
               }
             }
           },
@@ -163,10 +176,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a53334f5fcaf1b3a",
+  "active": "398eb9df913dd967",
   "lastOpenFiles": [
-    "_work/meeting/20230411-master-mrp.md",
+    "notes/fleeting/Data Modeling.md",
+    "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
+    "notes/fleeting/Data Warehousing.md",
+    "notes/fleeting/Greeting.md",
     "_work/meeting/20230721-juntos.md",
+    "_work/projects/Planejamento 2023.md",
+    "_work/projects/Narwal.md",
+    "_work/meeting/20230124-juntos.md",
+    "_work/meeting/planejamento-2023.md",
+    "_work/meeting/20230411-master-mrp.md",
     "_work/meeting/20230719-selecao-software-dxc.md",
     "_work/meeting/20230718-master-pesagem.md",
     "_templates/tpl.zettel.fleeting.md",
@@ -182,16 +203,8 @@
     "_learning/intensivo-de-dados",
     "notes/fleeting/OEE Overall Equipment Effectiveness.md",
     "_work/projects/Prodwin.md",
-    "_work/projects/Narwal.md",
     "_work/projects/Ponto Icarus.md",
     "notes/fleeting/Diagrama Entidade Relacionamento.md",
-    "_work/meeting/20230508-azship-integracao.md",
-    "notes/fleeting/FHS Filesystem Hierarchy Standard.md",
-    "_work/meeting/20230621-narwal-integracao.md",
-    "_work/meeting/20230508-narwal-kickoff.md",
-    "_work/meeting/20230424-narwal.md",
-    "_work/meeting/20230620-limerpak-datadores.md",
-    "_work/meeting/20230525-adp-duediligence.md",
     "_work/projects",
     "_learning/santander-letscode-2023",
     "_learning",

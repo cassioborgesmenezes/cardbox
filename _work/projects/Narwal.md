@@ -1,7 +1,7 @@
 ---
 id: 202306210924
 alias: 
-tags: projects erp/comex erp/integracao partner/narwal
+tags: projects skala/platina erp/comex erp/integracao partner/narwal
 
 created: 2023-06-21, 09:24
 modified: 2023-06-21, 09:24
