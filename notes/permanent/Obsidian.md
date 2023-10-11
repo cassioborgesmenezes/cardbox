@@ -20,7 +20,7 @@ _A second brain, for you, forever_.
 
 - [[notes/literature/Obsidian]]
 
-
+![[Pasted image 20230804165808.png]]
 ## Official forum
 
 https://forum.obsidian.md/

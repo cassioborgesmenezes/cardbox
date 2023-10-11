@@ -1,8 +1,11 @@
 ---
 id: 202305081613
-alias: 
-tags: meeting azship logistica
-
+aliases: 
+tags:
+  - meeting
+  - erp/logistica
+  - partner/azship
+  - erp/integracao
 created: 2023-05-08, 16:13
 modified: 2023-05-08, 16:13
 ---

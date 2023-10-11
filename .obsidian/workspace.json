@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e39f383321e6a8ef",
+        "id": "f315383bdf0ca14d",
         "type": "tabs",
         "children": [
           {
-            "id": "398eb9df913dd967",
+            "id": "476e1a2c6b73f7bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
+                "file": "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "12e1af6168e427d7",
+            "id": "66a20b8f8c898121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/Data Modeling.md",
+                "file": "_work/meeting/20231005-1o1-keila.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#erp/estoque",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
+                "file": "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
+                "file": "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md"
+                "file": "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md"
               }
             }
           },
@@ -154,6 +154,16 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "bf1d22066827bc01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -176,44 +186,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "398eb9df913dd967",
+  "active": "476e1a2c6b73f7bb",
   "lastOpenFiles": [
-    "notes/fleeting/Data Modeling.md",
-    "notes/fleeting/ORA-1000 Maximum Number of Cursors Exceeded.md",
-    "notes/fleeting/Data Warehousing.md",
-    "notes/fleeting/Greeting.md",
-    "_work/meeting/20230721-juntos.md",
-    "_work/projects/Planejamento 2023.md",
-    "_work/projects/Narwal.md",
-    "_work/meeting/20230124-juntos.md",
-    "_work/meeting/planejamento-2023.md",
-    "_work/meeting/20230411-master-mrp.md",
-    "_work/meeting/20230719-selecao-software-dxc.md",
-    "_work/meeting/20230718-master-pesagem.md",
-    "_templates/tpl.zettel.fleeting.md",
-    "_templates/tpl.people.md",
-    "_work/meeting/20230706-estoque-master.md",
-    "_work/meeting/20230629-prodwin-kickoff.md",
-    "_work/meeting/20230622-estoque-master.md",
-    "_work/meeting/20230609-estoque-master.md",
-    "notes/fleeting/Aplication Program Interface.md",
-    "_learning/intensivo-de-dados/Intensivo de Dados Conquer.md",
-    "_learning/santander-letscode-2023/01. Git e Versionamento.md",
-    "_work/meeting/20230630-email-google-workspace.md",
-    "_learning/intensivo-de-dados",
-    "notes/fleeting/OEE Overall Equipment Effectiveness.md",
+    "_work/meeting/20231006-senior-hcm-kickoff.md",
+    "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md",
+    "_learning/trabalhando-em-equipes-ageis",
+    "_work/projects/Senior HCM.md",
+    "_learning/admiravel-emprego-novo/005-entrevista-show.md",
+    "_work/meeting/20231005-itone-oci.md",
+    "_work/meeting/20231005-1o1-keila.md",
+    "_learning/admiravel-emprego-novo/00-introducao.md",
+    "_learning/conquer+lideranca/Formacao em Lideranca.md",
+    "_learning/admiravel-emprego-novo/manual-estrategia-sniper.pdf",
+    "_learning/admiravel-emprego-novo/Unconfirmed 45033.crdownload",
+    "_learning/admiravel-emprego-novo/005.2-FAQ.pdf",
+    "_learning/admiravel-emprego-novo/Unconfirmed 350220.crdownload",
+    "_learning/admiravel-emprego-novo/005.1-entrevista-e-dinamica-de-grupo.pdf",
+    "_learning/admiravel-emprego-novo/Unconfirmed 908259.crdownload",
+    "_learning/admiravel-emprego-novo/004.2-FAQ.pdf",
+    "_learning/admiravel-emprego-novo/Unconfirmed 897369.crdownload",
+    "_learning/admiravel-emprego-novo/004.1-vagas-e-rede-de-contatos.pdf",
+    "_work/meeting/20231003-kardex.md",
+    "_work/meeting/20231002-sankhya-revitalizacao-producao.md",
+    "_work/projects/Revitalizacao Sankhya Producao.md",
     "_work/projects/Prodwin.md",
-    "_work/projects/Ponto Icarus.md",
-    "notes/fleeting/Diagrama Entidade Relacionamento.md",
-    "_work/projects",
-    "_learning/santander-letscode-2023",
-    "_learning",
-    "Pasted image 20230411141142.png",
-    "_work/meeting",
-    "_work",
-    "_templates",
-    "_attachments",
-    "notes/permanent",
-    "notes/literature"
+    "_work/meeting/20230919-azship-integracao.md",
+    "_work/meeting/20230919-rfp.md",
+    "_work/meeting/20230508-azship-integracao.md",
+    "_work/meeting/20230918-radar.md",
+    "_work/meeting/Untitled.md",
+    "_work/meeting/20230828-ops-projetos.md",
+    "_work/meeting/20230915-gestao-a-vista-progic.md",
+    "_learning/ser+tech/ser+tech.md",
+    "_work/meeting/20230915-dadosfera-forecast.md",
+    "_work/meeting/20230914-radar.md",
+    "_work/meeting/20230905-ops-projetos.md",
+    "_attachments/Pasted image 20230911143054.png",
+    "_attachments/Pasted image 20230911121030.png",
+    "_learning/santander-letscode-2023/01. Git e Versionamento.md",
+    "_work/carreer/Oportunidades.md",
+    "notes/fleeting/Sites de Recrutamento.md",
+    "_attachments/Pasted image 20230828093456.png",
+    "_attachments/Pasted image 20230804165808.png",
+    "Pasted image 20230411141142.png"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 id: 202305261414
 alias: 
-tags: projects erp/ponto
+tags: skala/project/pessoas erp/ponto partner/icarus
 
 created: 2023-05-26, 14:14
 modified: 2023-05-26, 14:14

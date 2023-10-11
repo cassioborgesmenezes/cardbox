@@ -6,9 +6,6 @@
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
   "showLineNumber": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true
 }
