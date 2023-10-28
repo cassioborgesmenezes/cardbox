@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "476e1a2c6b73f7bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8ed9b49f3caee587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/projects/Revitalizacao Sankhya Producao.md",
+                "file": "_learning/desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "66a20b8f8c898121",
+            "id": "bc79b9e31924f2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_work/meeting/20231005-1o1-keila.md",
+                "file": "notes/fleeting/Kotlin.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 513.5
   },
   "right": {
     "id": "93a115ce5d46c07b",
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/projects/Revitalizacao Sankhya Producao.md",
+                "file": "notes/fleeting/Kotlin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/projects/Revitalizacao Sankhya Producao.md",
+                "file": "notes/fleeting/Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/projects/Revitalizacao Sankhya Producao.md"
+                "file": "notes/fleeting/Kotlin.md"
               }
             }
           },
@@ -200,29 +187,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ed9b49f3caee587",
+  "active": "bc79b9e31924f2a6",
   "lastOpenFiles": [
-    "_work/meeting/20231006-senior-hcm-kickoff.md",
+    "_learning/desmistificando-kotlin/F6571785.pdf",
+    "_learning/desmistificando-kotlin/Não confirmado 549910.crdownload",
+    "_learning/desmistificando-kotlin/Curso 02 - Introdução Prática à Linguagem de Programação Kotlin.pptx",
+    "_learning/desmistificando-kotlin/Não confirmado 844788.crdownload",
+    "_learning/desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
+    "_learning/desmistificando-kotlin/2D1E992C.pdf",
+    "_learning/desmistificando-kotlin/Introdução Prática à Linguagem de Programação Kotlin.md",
+    "_learning/santander-bolsas/Online English Courses 2023 – British Council - 3rd Call.md",
+    "_attachments/Pasted image 20231020112615.png",
+    "_attachments/Pasted image 20231020112200.png",
+    "_learning/santander-bolsas",
+    "_learning/santa.md",
+    "notes/fleeting/Kotlin.md",
+    "_learning/admiravel-emprego-novo/003.1-modelos-mensagens-linkedin.pdf",
+    "_learning/desmistificando-kotlin/Não confirmado 380272.crdownload",
+    "_learning/desmistificando-kotlin/Curso 1 - Conhecendo o Kotlin e Sua Documentação Oficial.pptx",
+    "_learning/desmistificando-kotlin/Não confirmado 91449.crdownload",
     "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md",
-    "_learning/trabalhando-em-equipes-ageis",
+    "_learning/desmistificando-kotlin",
+    "_work/projects/Revitalizacao Sankhya Producao.md",
+    "_work/meeting/20231006-senior-hcm-kickoff.md",
     "_work/projects/Senior HCM.md",
     "_learning/admiravel-emprego-novo/005-entrevista-show.md",
     "_work/meeting/20231005-itone-oci.md",
     "_work/meeting/20231005-1o1-keila.md",
     "_learning/admiravel-emprego-novo/00-introducao.md",
     "_learning/conquer+lideranca/Formacao em Lideranca.md",
-    "_learning/admiravel-emprego-novo/manual-estrategia-sniper.pdf",
-    "_learning/admiravel-emprego-novo/Unconfirmed 45033.crdownload",
-    "_learning/admiravel-emprego-novo/005.2-FAQ.pdf",
-    "_learning/admiravel-emprego-novo/Unconfirmed 350220.crdownload",
-    "_learning/admiravel-emprego-novo/005.1-entrevista-e-dinamica-de-grupo.pdf",
-    "_learning/admiravel-emprego-novo/Unconfirmed 908259.crdownload",
-    "_learning/admiravel-emprego-novo/004.2-FAQ.pdf",
-    "_learning/admiravel-emprego-novo/Unconfirmed 897369.crdownload",
-    "_learning/admiravel-emprego-novo/004.1-vagas-e-rede-de-contatos.pdf",
     "_work/meeting/20231003-kardex.md",
     "_work/meeting/20231002-sankhya-revitalizacao-producao.md",
-    "_work/projects/Revitalizacao Sankhya Producao.md",
     "_work/projects/Prodwin.md",
     "_work/meeting/20230919-azship-integracao.md",
     "_work/meeting/20230919-rfp.md",
@@ -232,14 +227,8 @@
     "_work/meeting/20230828-ops-projetos.md",
     "_work/meeting/20230915-gestao-a-vista-progic.md",
     "_learning/ser+tech/ser+tech.md",
-    "_work/meeting/20230915-dadosfera-forecast.md",
-    "_work/meeting/20230914-radar.md",
-    "_work/meeting/20230905-ops-projetos.md",
     "_attachments/Pasted image 20230911143054.png",
     "_attachments/Pasted image 20230911121030.png",
-    "_learning/santander-letscode-2023/01. Git e Versionamento.md",
-    "_work/carreer/Oportunidades.md",
-    "notes/fleeting/Sites de Recrutamento.md",
     "_attachments/Pasted image 20230828093456.png",
     "_attachments/Pasted image 20230804165808.png",
     "Pasted image 20230411141142.png"

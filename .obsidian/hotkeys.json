@@ -5,6 +5,13 @@
         "Meta"
       ],
       "key": "T"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
     }
   ]
 }
