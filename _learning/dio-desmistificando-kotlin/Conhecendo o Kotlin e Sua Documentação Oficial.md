@@ -1,14 +1,16 @@
 ---
-id: 202310191043
+id: 202310290726
 aliases: 
 tags:
   - course
+  - dio
+  - programming/java
   - programming/kotlin
-  - courses/dio
-  - dio/bootcamp/code-update-tqi-kotlin
-created: 2023-10-19, 10:43
-modified: 2023-10-19, 10:43
+created: 2023-10-29, 07:26
+modified: 2023-10-29, 07:26
 ---
+# Conhecendo o Kotlin e Sua Documentação Oficial
+
 # Conhecendo o Kotlin e Sua Documentação Oficial
 
 Aprendizado baseado em exemplos.
