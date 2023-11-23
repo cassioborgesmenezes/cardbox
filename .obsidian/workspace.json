@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/fleeting/Kotlin.md",
+                "file": "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/fleeting/Kotlin.md",
+                "file": "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/fleeting/Kotlin.md"
+                "file": "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md"
               }
             }
           },
