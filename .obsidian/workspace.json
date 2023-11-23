@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f315383bdf0ca14d",
+        "id": "139d03e9eeb1ba36",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed9b49f3caee587",
+            "id": "694919724fc3cc7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
+                "file": "_learning/sap/Plano de Estudo SAP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "bc79b9e31924f2a6",
+            "id": "c777b254301bb4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/Kotlin.md",
+                "file": "_learning/pte/02 Autoconhecimento profissional.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e06852e367d202c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_learning/career/Linkedin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "391f1f2f43fd50c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_learning/career/Networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -64,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#carreer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.5
+    "width": 295.5
   },
   "right": {
     "id": "93a115ce5d46c07b",
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
+                "file": "_learning/sap/Plano de Estudo SAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
+                "file": "_learning/sap/Plano de Estudo SAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md"
+                "file": "_learning/sap/Plano de Estudo SAP.md"
               }
             }
           },
@@ -173,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,46 +213,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "883b207d0aa226a4",
+  "active": "694919724fc3cc7c",
   "lastOpenFiles": [
-    "_learning/dio-desmistificando-kotlin/F6571785.pdf",
-    "_learning/desmistificando-kotlin/Não confirmado 549910.crdownload",
-    "_learning/dio-desmistificando-kotlin/Curso 02 - Introdução Prática à Linguagem de Programação Kotlin.pptx",
-    "_learning/desmistificando-kotlin/Não confirmado 844788.crdownload",
-    "_learning/dio-desmistificando-kotlin/Conhecendo o Kotlin e Sua Documentação Oficial.md",
-    "_learning/dio-desmistificando-kotlin/2D1E992C.pdf",
-    "_learning/dio-desmistificando-kotlin/Introdução Prática à Linguagem de Programação Kotlin.md",
-    "_learning/santander-bolsas/Online English Courses 2023 – British Council - 3rd Call.md",
+    "_work/meeting/20231024-101-antonio.md",
+    "_learning/versionamento-codigo-git-github/Curso 05 - O Poder das Funções em Kotlin.pptx",
+    "_learning/pte/06-06-descricao-experiencia-profissional.pdf",
+    "_learning/pte/Não confirmado 240260.crdownload",
+    "_learning/sap/openSAP_abap1_Unit_2_INTRO_Presentation.pdf",
+    "_learning/sap/Não confirmado 181257.crdownload",
+    "_learning/sap/openSAP_abap1_Unit_1_BASICCOMP_Presentation.pdf",
+    "_learning/sap/Não confirmado 641050.crdownload",
+    "_learning/sap/openSAP_genai1_Unit_01_approachesai_Presentation.pdf",
+    "_learning/sap/Não confirmado 728201.crdownload",
+    "_learning/Nova pasta",
+    "notes/fleeting/SAP.md",
+    "_learning/sap/Plano de Estudo SAP.md",
+    "notes/fleeting/SAP BTP.md",
+    "_learning/career/Curriculo.md",
+    "_work/meeting/20231116-periodica-gestao.md",
+    "notes/fleeting/Artificial Inteligence (AI).md",
+    "_learning/pte/02 Autoconhecimento profissional.md",
+    "_learning/pte/03 Transição de Carreira.md",
+    "_learning/pte/04 Palavras Chave.md",
+    "_learning/career/Networking.md",
+    "_learning/pte/01 Produtividade.md",
+    "_learning/career/Linkedin.md",
+    "_learning/pte/00-Introdução.md",
+    "_learning/conquer+apresentacoes/Apresentações que Conquistam.md",
+    "_learning/conquer+lideranca/Formacao em Lideranca.md",
+    "_learning/ingles/Passive.md",
+    "_learning/ingles/Conditionals.md",
+    "_attachments/Pasted image 20231107002602.png",
+    "_learning/ingles/Recomendations.md",
+    "_learning/ingles/Infinitive Gerund.md",
+    "_learning/ingles/Present Perfect Continuous.md",
+    "_learning/ingles/Possessive Pronouns.md",
+    "_learning/ingles/Plano de Estudo.md",
+    "_learning/dio-imersao-spring-framework-spring-boot/Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka.md",
+    "_learning/Untitled.md",
+    "_learning/dio-imersao-spring-framework-spring-boot/Contextualizando o Desenvolvimento Web com Spring Boot 3.md",
     "_attachments/Pasted image 20231020112615.png",
     "_attachments/Pasted image 20231020112200.png",
-    "_learning/santander-bolsas",
-    "_learning/santa.md",
-    "notes/fleeting/Kotlin.md",
-    "_learning/admiravel-emprego-novo/003.1-modelos-mensagens-linkedin.pdf",
-    "_learning/desmistificando-kotlin/Não confirmado 380272.crdownload",
-    "_learning/dio-desmistificando-kotlin/Curso 1 - Conhecendo o Kotlin e Sua Documentação Oficial.pptx",
-    "_learning/desmistificando-kotlin/Não confirmado 91449.crdownload",
-    "_learning/trabalhando-em-equipes-ageis/introducao-cultura-agil.md",
-    "_learning/dio-desmistificando-kotlin",
-    "_work/projects/Revitalizacao Sankhya Producao.md",
-    "_work/meeting/20231006-senior-hcm-kickoff.md",
-    "_work/projects/Senior HCM.md",
-    "_learning/admiravel-emprego-novo/005-entrevista-show.md",
-    "_work/meeting/20231005-itone-oci.md",
-    "_work/meeting/20231005-1o1-keila.md",
-    "_learning/admiravel-emprego-novo/00-introducao.md",
-    "_learning/conquer+lideranca/Formacao em Lideranca.md",
-    "_work/meeting/20231003-kardex.md",
-    "_work/meeting/20231002-sankhya-revitalizacao-producao.md",
-    "_work/projects/Prodwin.md",
-    "_work/meeting/20230919-azship-integracao.md",
-    "_work/meeting/20230919-rfp.md",
-    "_work/meeting/20230508-azship-integracao.md",
-    "_work/meeting/20230918-radar.md",
-    "_work/meeting/Untitled.md",
-    "_work/meeting/20230828-ops-projetos.md",
-    "_work/meeting/20230915-gestao-a-vista-progic.md",
-    "_learning/ser+tech/ser+tech.md",
     "_attachments/Pasted image 20230911143054.png",
     "_attachments/Pasted image 20230911121030.png",
     "_attachments/Pasted image 20230828093456.png",
