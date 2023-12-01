@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_learning/sap/Plano de Estudo SAP.md",
+                "file": "notes/fleeting/SAP BTP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_learning/sap/Plano de Estudo SAP.md",
+                "file": "notes/fleeting/SAP BTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_learning/sap/Plano de Estudo SAP.md",
+                "file": "notes/fleeting/SAP BTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_learning/sap/Plano de Estudo SAP.md"
+                "file": "notes/fleeting/SAP BTP.md"
               }
             }
           },
@@ -215,6 +215,9 @@
   },
   "active": "694919724fc3cc7c",
   "lastOpenFiles": [
+    "notes/fleeting/Entrevista.md",
+    "_learning/pte/02 Autoconhecimento profissional.md",
+    "_learning/sap/Plano de Estudo SAP.md",
     "_work/meeting/20231024-101-antonio.md",
     "_learning/versionamento-codigo-git-github/Curso 05 - O Poder das Funções em Kotlin.pptx",
     "_learning/pte/06-06-descricao-experiencia-profissional.pdf",
@@ -227,12 +230,10 @@
     "_learning/sap/Não confirmado 728201.crdownload",
     "_learning/Nova pasta",
     "notes/fleeting/SAP.md",
-    "_learning/sap/Plano de Estudo SAP.md",
     "notes/fleeting/SAP BTP.md",
     "_learning/career/Curriculo.md",
     "_work/meeting/20231116-periodica-gestao.md",
     "notes/fleeting/Artificial Inteligence (AI).md",
-    "_learning/pte/02 Autoconhecimento profissional.md",
     "_learning/pte/03 Transição de Carreira.md",
     "_learning/pte/04 Palavras Chave.md",
     "_learning/career/Networking.md",
@@ -251,7 +252,6 @@
     "_learning/ingles/Plano de Estudo.md",
     "_learning/dio-imersao-spring-framework-spring-boot/Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka.md",
     "_learning/Untitled.md",
-    "_learning/dio-imersao-spring-framework-spring-boot/Contextualizando o Desenvolvimento Web com Spring Boot 3.md",
     "_attachments/Pasted image 20231020112615.png",
     "_attachments/Pasted image 20231020112200.png",
     "_attachments/Pasted image 20230911143054.png",
