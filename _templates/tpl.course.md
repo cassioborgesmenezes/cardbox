@@ -8,3 +8,10 @@ modified: {{date}}, {{time}}
 ---
 # {{title}}
 
+## Conceitos Chave
+
+## Datas Importantes
+
+## Questões
+
+## Resumo
