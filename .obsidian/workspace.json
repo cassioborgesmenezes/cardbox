@@ -13,46 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/SAP BTP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c777b254301bb4a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_learning/pte/02 Autoconhecimento profissional.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e06852e367d202c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_learning/career/Linkedin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "391f1f2f43fd50c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_learning/career/Networking.md",
+                "file": "notes/fleeting/Meu Segundo Cerebro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/fleeting/SAP BTP.md",
+                "file": "notes/fleeting/Meu Segundo Cerebro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/fleeting/SAP BTP.md",
+                "file": "notes/fleeting/Meu Segundo Cerebro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/fleeting/SAP BTP.md"
+                "file": "notes/fleeting/Meu Segundo Cerebro.md"
               }
             }
           },
@@ -215,6 +176,8 @@
   },
   "active": "694919724fc3cc7c",
   "lastOpenFiles": [
+    "notes/fleeting/Zettelkasten.md",
+    "notes/fleeting/SAP BTP.md",
     "notes/fleeting/Entrevista.md",
     "_learning/pte/02 Autoconhecimento profissional.md",
     "_learning/sap/Plano de Estudo SAP.md",
@@ -230,7 +193,6 @@
     "_learning/sap/Não confirmado 728201.crdownload",
     "_learning/Nova pasta",
     "notes/fleeting/SAP.md",
-    "notes/fleeting/SAP BTP.md",
     "_learning/career/Curriculo.md",
     "_work/meeting/20231116-periodica-gestao.md",
     "notes/fleeting/Artificial Inteligence (AI).md",
@@ -251,7 +213,6 @@
     "_learning/ingles/Possessive Pronouns.md",
     "_learning/ingles/Plano de Estudo.md",
     "_learning/dio-imersao-spring-framework-spring-boot/Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka.md",
-    "_learning/Untitled.md",
     "_attachments/Pasted image 20231020112615.png",
     "_attachments/Pasted image 20231020112200.png",
     "_attachments/Pasted image 20230911143054.png",

@@ -1,4 +1,4 @@
-# Meu Segundo Cerebro
+# Meu Segundo Cérebro
 
 - Como montar uma estrutura de Segundo Cérebro?
 - Como usufruir do Segundo Cérebro e mantê-lo sempre vivo, fresco e dinâmico para conseguir explorá-lo para conseguir novas ideias?
@@ -17,7 +17,7 @@ Vou adaptar também, junto ao ZK, algo da estrutura proposta por Nick Milo e tam
 
 Como ferramenta principal vou utilizar o Obsidian, usando um repositório no GitHub tanto.
 
-Obsidian é utiliza Markdown como linguagem.
+Obsidian utiliza Markdown como linguagem.
 
 Interessante cadastrar no Fórum Obsidian que tem algumas dicas relevantes.
 
