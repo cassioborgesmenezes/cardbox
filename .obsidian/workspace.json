@@ -4,16 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "139d03e9eeb1ba36",
+        "id": "1dfcee5b833856a9",
         "type": "tabs",
         "children": [
           {
-            "id": "694919724fc3cc7c",
+            "id": "2686d757b0e50641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/fleeting/Meu Segundo Cerebro.md",
+                "file": "_learning/fundamental-leadership-skills/Fundamental Leadership Skills.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "282bc5d3e3c660da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_learning/fundamental-leadership-skills/Stephen Friedman.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7433d3f880613723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_learning/fundamental-leadership-skills/Charmaine Moules.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a811c80c9e13dae7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_learning/fundamental-leadership-skills/34 Strengths Within 4 Domains.pdf"
+              }
+            }
+          },
+          {
+            "id": "4d26f64a6f4d97ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_learning/fundamental-leadership-skills/Michel Shah.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/fleeting/Meu Segundo Cerebro.md",
+                "file": "_learning/fundamental-leadership-skills/Fundamental Leadership Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/fleeting/Meu Segundo Cerebro.md",
+                "file": "_learning/fundamental-leadership-skills/Fundamental Leadership Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/fleeting/Meu Segundo Cerebro.md"
+                "file": "_learning/fundamental-leadership-skills/Fundamental Leadership Skills.md"
               }
             }
           },
@@ -174,24 +223,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "694919724fc3cc7c",
+  "active": "2686d757b0e50641",
   "lastOpenFiles": [
-    "notes/fleeting/Zettelkasten.md",
+    "_attachments/Pasted image 20231213172202.png",
+    "_learning/fundamental-leadership-skills/Stephen Friedman.md",
+    "_learning/fundamental-leadership-skills/Fundamental Leadership Skills.md",
+    "_learning/fundamental-leadership-skills/are-you-solving-the-right-problems.pdf",
+    "_learning/fundamental-leadership-skills/Schulich ExecEd Leadership & Motivation Workbook Fillable.pdf",
+    "_learning/fundamental-leadership-skills/Não confirmado 328223.crdownload",
+    "_learning/fundamental-leadership-skills/Schulich ExecEd - Leadership & Motivation_Participant.pdf",
+    "_learning/fundamental-leadership-skills/Não confirmado 779399.crdownload",
+    "_learning/fundamental-leadership-skills/Charmaine Moules.md",
+    "_learning/fundamental-leadership-skills/Michel Shah.md",
+    "_learning/fundamental-leadership-skills/34 Strengths Within 4 Domains.pdf",
+    "_learning/fundamental-leadership-skills/Orientation Package.pdf",
+    "_learning/fundamental-leadership-skills/Não confirmado 231150.crdownload",
+    "_templates/tpl.course.md",
+    "_templates/tpl.meeting.md",
     "notes/fleeting/SAP BTP.md",
+    "_learning/fundamental-leadership-skills",
     "notes/fleeting/Entrevista.md",
     "_learning/pte/02 Autoconhecimento profissional.md",
     "_learning/sap/Plano de Estudo SAP.md",
     "_work/meeting/20231024-101-antonio.md",
     "_learning/versionamento-codigo-git-github/Curso 05 - O Poder das Funções em Kotlin.pptx",
-    "_learning/pte/06-06-descricao-experiencia-profissional.pdf",
-    "_learning/pte/Não confirmado 240260.crdownload",
-    "_learning/sap/openSAP_abap1_Unit_2_INTRO_Presentation.pdf",
-    "_learning/sap/Não confirmado 181257.crdownload",
-    "_learning/sap/openSAP_abap1_Unit_1_BASICCOMP_Presentation.pdf",
-    "_learning/sap/Não confirmado 641050.crdownload",
-    "_learning/sap/openSAP_genai1_Unit_01_approachesai_Presentation.pdf",
-    "_learning/sap/Não confirmado 728201.crdownload",
-    "_learning/Nova pasta",
     "notes/fleeting/SAP.md",
     "_learning/career/Curriculo.md",
     "_work/meeting/20231116-periodica-gestao.md",
@@ -207,12 +262,6 @@
     "_learning/ingles/Passive.md",
     "_learning/ingles/Conditionals.md",
     "_attachments/Pasted image 20231107002602.png",
-    "_learning/ingles/Recomendations.md",
-    "_learning/ingles/Infinitive Gerund.md",
-    "_learning/ingles/Present Perfect Continuous.md",
-    "_learning/ingles/Possessive Pronouns.md",
-    "_learning/ingles/Plano de Estudo.md",
-    "_learning/dio-imersao-spring-framework-spring-boot/Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka.md",
     "_attachments/Pasted image 20231020112615.png",
     "_attachments/Pasted image 20231020112200.png",
     "_attachments/Pasted image 20230911143054.png",
