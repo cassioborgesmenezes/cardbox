@@ -1,15 +1,21 @@
 ---
 id: {{date:YYYYMMDD}}{{time:HHmm}}
+type: meeting
+company: 
+summary: " "
 alias: 
-tags: meeting
+tags: [[_MeetingsMoc]] meeting 
 
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 ---
-# {{title}}
+<% await tp.file.move("/_timestamps/meetings/" + tp.date.now("YYYY-MM-DD") + " " + tp.file.title) %>
+
+# [[<% tp.date.now("YYYY-MM-DD") + " " + tp.file.title %>]]
 
 Data: {{date}}
-Participantes:
+**Attendees**:
+-
 
 ---
 

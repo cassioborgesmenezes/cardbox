@@ -1,3 +1,6 @@
 [
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "buttons",
+  "dataview",
+  "templater-obsidian"
 ]
