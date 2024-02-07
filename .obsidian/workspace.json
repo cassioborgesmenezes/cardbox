@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1194356145c307a6",
+            "id": "ba6472c4bb63b3b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_learning/english/British Council.md",
+                "file": "_learning/pte/_Programa Trocando de Emprego.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "8af2e68c75187340",
+            "id": "a4ba3e63951b561a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_learning/conquer+produtividade/Produtividade e Performance.md",
+                "file": "_work/carreer/Curriculo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e540fcc95e80462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/permanent/Networking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95a98814b27bedc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/permanent/Network - Building.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_learning/conquer+produtividade/Produtividade e Performance.md",
+                "file": "_learning/pte/_Programa Trocando de Emprego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_learning/conquer+produtividade/Produtividade e Performance.md",
+                "file": "_learning/pte/_Programa Trocando de Emprego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_learning/conquer+produtividade/Produtividade e Performance.md"
+                "file": "_learning/pte/_Programa Trocando de Emprego.md"
               }
             }
           },
@@ -191,8 +216,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8af2e68c75187340",
+  "active": "ba6472c4bb63b3b2",
   "lastOpenFiles": [
+    "_attachments/pte-03-02-EncontrandoSeusPorques.pdf",
+    "_learning/pte/_Programa Trocando de Emprego.md",
+    "_attachments/Programa Trocando de Emprego - Encontrando seus Porquês.pdf.crdownload",
+    "_attachments/pte-03-01-FerramentaValores.pdf",
+    "_timestamps/meetings/2024-02-06 Atualizacao Versao Sankhya.md",
+    "_attachments/Pasted image 20240206150803.png",
+    "_attachments/Pasted image 20240206143729.png",
+    "_learning/english/British Council.md",
+    "_work/carreer/Curriculo.md",
+    "_learning/conquer+produtividade/Produtividade e Performance.md",
+    "notes/permanent/Network - Building.md",
+    "notes/permanent/Fabrício Panice.md",
+    "notes/permanent/Networking.md",
     "_attachments/conquer+desafio.pdf",
     "_attachments/conquer+bussula-do-ano.pdf",
     "_attachments/Não confirmado 306377.crdownload",
@@ -200,11 +238,6 @@
     "_attachments/conquer+guia-alimentacao-saudavel.pdf",
     "_attachments/Não confirmado 315317.crdownload",
     "_attachments/conquer+modulo-04.pdf",
-    "_attachments/Não confirmado 873176.crdownload",
-    "_attachments/Live25_Intonation_patterns_questions_clarifications_and_signposting-post.pdf",
-    "_attachments/Live25_Intonation_patterns_questions_clarifications_and_signposting-post.pdf.zmdownload",
-    "_attachments/conquer+modulo-03.pdf",
-    "_learning/english/British Council.md",
     "notes/fleeting/Intelligence.md",
     "_attachments/british-council-evaluating-performance-job-description.png",
     "_attachments/british-council-evaluating-performance-candidate-d.png",
@@ -214,7 +247,6 @@
     "_attachments/Image20240120114254.png",
     "_attachments/Image20240120114154.png",
     "_attachments/Image20240120114031.png",
-    "_learning/conquer+produtividade/Produtividade e Performance.md",
     "_learning/conquer+lideranca/Formacao em Lideranca.md",
     "notes/permanent/Prompt Gestao de Projetos.md",
     "notes/fleeting/Artificial Inteligence (AI).md",
@@ -230,14 +262,6 @@
     "_work/meeting/20230505-apresentacao-mega-senior.md",
     "_work/meeting/20230424-narwal.md",
     "_work/meeting/20230424-inventario-logistica.md",
-    "_work/meeting/20230417-flow-solicitacao-compra.md",
-    "_work/meeting/20230411-proxion.md",
-    "_work/meeting/20230411-master-mrp.md",
-    "_templates/tpl_meeting.md",
-    "_timestamps/meetings/wms-refresh.md",
-    "notes/permanent/Marcela Spindola.md",
-    "_work/meeting/20231222-wms-refresh.md",
-    "_attachments/Pasted image 20231213172202.png",
-    "_attachments/Pasted image 20231107002602.png"
+    "_work/meeting/20230417-flow-solicitacao-compra.md"
   ]
 }
