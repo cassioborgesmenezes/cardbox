@@ -21,16 +21,23 @@ modified: 2023-11-07, 17:15
 ## Solicitar recomendações
 
 - [ ] Cris Anderson
-- Carmem
+- [ ] Carmem
 - Carlos Dutra
 - Rodrigo Paiva
 - Pedro Neto
-- Bruno 
+- Bruno Campos
 - Laudemir Lério
 - George Pucci
 - Bruno Campos
-- Emne
+- Emne Nassif
 - Jéssica
+- Domileide Muniz
+- Fabricio Ribeiro Panice
+- Moira Gnemmi Taddei
+- Renato William de Castro Brito
+- David Gomes
+- Adriana Freire
+
 ## Referências
 <!-- Links to pages not referenced in the content -->
 

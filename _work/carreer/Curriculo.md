@@ -11,11 +11,30 @@ modified: 2023-12-21, 16:23
 
 - 
 
-## Questões
-<!-- What remains for you to consider? --> 
+## Keywords
 
-- 
-
+| pt-br | en-us | used | common |
+| ---- | ---- | ---- | ---- |
+|  | Data Analysis | - [x] |  |
+|  | SQL | - [x] | - [x] |
+|  | Analytics | - [x] |  |
+|  | Analytical Skills | - [x] |  |
+|  | Databases | - [x] |  |
+|  | Business Intelligence (BI) | - [x] |  |
+|  | Data Analytics | - [x] |  |
+|  | Software Development | - [x] | - [x] |
+|  | Engineering | - [x] | - [x] |
+|  | Communication | - [x] | - [x] |
+|  | Problem Solving | - [x] | - [x] |
+|  | Business Analysis |  |  |
+|  | Microsoft SQL Server |  |  |
+|  | Java | - [x] |  |
+|  | Agile Methodologies | - [x] |  |
+|  | JavaScript | - [x] |  |
+|  | HTML | - [x] |  |
+|  | Cloud Computing | - [x] |  |
+|  | Scrum |  |  |
+|  | Linux |  |  |
 ## Referências
 <!-- Links to pages not referenced in the content -->
 
