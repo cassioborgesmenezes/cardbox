@@ -38,6 +38,15 @@ BEGIN MERGE INTO TGFNRR NRR USING DUAL ON (NRR.CODNATREND = 12052) WHEN NOT MATC
 ```
 
 ![[Pasted image 20240206150803.png]]
+
+[Não foi possível concluir a instalação dos módulos adicionais do Wildfly – Sankhya Gestão de Negócios](https://ajuda.sankhya.com.br/hc/pt-br/articles/18496952933399-N%C3%A3o-foi-poss%C3%ADvel-concluir-a-instala%C3%A7%C3%A3o-dos-m%C3%B3dulos-adicionais-do-Wildfly?source=search&auth_token=eyJhbGciOiJIUzI1NiJ9.eyJhY2NvdW50X2lkIjo5NjE4MTY4LCJ1c2VyX2lkIjo0MDYxNDQwNDcyMTMsInRpY2tldF9pZCI6MzUyNDkyLCJjaGFubmVsX2lkIjo2MywidHlwZSI6IlNFQVJDSCIsImV4cCI6MTcwOTkwMjAwMn0.JJDCnwwU64qiWuItZTSWsHnomKZT-mZhCM-ggsMAr9o)
+
+```shell
+nano .bash_profile
+
+JAVA_HOME=/home/mgeweb/jdk8 ; export JAVA_HOME  
+PATH=$JAVA_HOME/bin:$PATH:$HOME/bin ; export PATH
+```
 ## Ações
 
 - [ ] Meeting Notes Distributed to the Team
