@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_learning/pte/_Programa Trocando de Emprego.md",
+                "file": "_work/carreer/Curriculo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_learning/pte/_Programa Trocando de Emprego.md",
+                "file": "_work/carreer/Curriculo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_learning/pte/_Programa Trocando de Emprego.md",
+                "file": "_work/carreer/Curriculo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_learning/pte/_Programa Trocando de Emprego.md"
+                "file": "_work/carreer/Curriculo.md"
               }
             }
           },
@@ -219,9 +218,11 @@
   },
   "active": "44050aa24e2deaf3",
   "lastOpenFiles": [
+    "_work/carreer/Oportunidades.md",
     "_work/carreer/Curriculo.md",
-    "_timestamps/meetings/2024-02-06 Atualizacao Versao Sankhya.md",
+    "_learning/pte/_Palavras Chave.md",
     "_learning/pte/_Programa Trocando de Emprego.md",
+    "_timestamps/meetings/2024-02-06 Atualizacao Versao Sankhya.md",
     "_attachments/pte-03-02-EncontrandoSeusPorques.pdf",
     "_attachments/Programa Trocando de Emprego - Encontrando seus Porquês.pdf.crdownload",
     "_attachments/pte-03-01-FerramentaValores.pdf",
@@ -262,7 +263,6 @@
     "_work/meeting/20230505-itone.md",
     "_work/meeting/20230505-apresentacao-mega-senior.md",
     "_work/meeting/20230424-narwal.md",
-    "_work/meeting/20230424-inventario-logistica.md",
-    "_work/meeting/20230417-flow-solicitacao-compra.md"
+    "_work/meeting/20230424-inventario-logistica.md"
   ]
 }

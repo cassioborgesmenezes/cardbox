@@ -47,7 +47,7 @@ Porquês
 
 | Por que você quer trocar de emprego? |
 | ---- |
-| Eu quero trocar de emprego por que eu sinto que não estou encaixado, por que eu perdi a confiança em mim, por que eu, em algumas ocasiões, me sinto desrespeitado e por que eu sinto que cheguei no limite onde estou.<br>Eu quero voltar a ter emoção e gosto pelo trabalho.<br>Eu quero alcançar liberdade financeira para garantir uma velhice digna e tenho muito medo de perder o que conquistei.<br>Também quero mais tranquilidade, menos "muda tudo o temo todo", sem pensar nas consequências.<br>E, principalmente, quero trabalhar na minha cidade, ou na minha casa, de preferência, sem necessidade de viagens constantes e frequentes, somente viagens esporádicas.<br>Também quero muito ter uma experiência internacional, interagindo com pessoas de outros países e, até, quem sabe, visitando outros países. |
+| Eu quero trocar de emprego por que eu sinto que não estou encaixado, por que eu perdi a confiança em mim, por que eu, em algumas ocasiões, me sinto desrespeitado e por que eu sinto que cheguei no limite onde estou.<br>Eu quero voltar a ter emoção e gosto pelo trabalho.<br>Eu quero alcançar liberdade financeira para garantir uma velhice digna e tenho muito medo de perder o que conquistei.<br>Também quero mais tranquilidade, menos "muda tudo o tempo todo", sem pensar nas consequências.<br>E, principalmente, quero trabalhar na minha cidade, ou na minha casa, de preferência, sem necessidade de viagens constantes e frequentes, somente viagens esporádicas.<br>Também quero muito ter uma experiência internacional, interagindo com pessoas de outros países e, até, quem sabe, visitando outros países. |
 | **E por que isso é importante pra você** |
 | Isso é importante por que eu quero aproveitar melhor meu tempo e viver de uma forma mais leve, com menos ansiedade e com menos medo.<br>É importante por que eu quero aproveitar melhor o tempo que me resta de vida de uma forma mais leve.<br>É importante por que eu quero estar mais próximo da minha esposa, da minha mãe, da minha família.<br>É importante por que eu quero retomar contato com meus amigos.<br>E também retomar contato comigo, com menos desperdício de tempo. |
 | **Por que você precisa executar todo o passo a passo do Programa Trocando de Emprego?** |
@@ -63,7 +63,24 @@ O mundo é do fazedores, dos executores!
 
 Por mais que ache bobo, vou fazer o que tem que ser feito.
 
-#### Saboradores
+#### Sabotadores
 
 - Surgem na infância para te proteger
 - Quando adulto, é necessário assumir alguns riscos, e isto pode atrapalhar
+
+### Minhas Palavras Chave
+
+Principal função das palavras chave é fazer você ser encontrado ou passar pelo ATS.
+
+- Não existem palavras chave universais
+- Palavras chave devem ser testadas
+
+[Mapa VAGAS de Carreiras - Informações de apoio para seu desenvolvimento profissional | VAGAS.com.br](https://www.vagas.com.br/mapa-de-carreiras/)
+
+#### Avaliação de descritivos de vagas
+
+- Google/BARD
+- pelo menos 20 vagas
+
+Gerente de Desenvolvimento de Sistemas
+

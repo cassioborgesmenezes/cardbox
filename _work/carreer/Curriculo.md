@@ -11,6 +11,16 @@ modified: 2023-12-21, 16:23
 
 - 
 
+## Formação Acadêmica
+
+Fecap
+
+Busca desenvolver e disseminar os conceitos atualizados da Gestão, através de uma visão sistêmica, integrando a Qualidade Total aos demais Sistemas de Gestão, Responsabilidade Social e Ética Empresarial.
+
+UFU
+
+O curso de Engenharia Elétrica oferece formação plena, para projetar e atuar nas áreas de sistemas eletrônicos analógicos e digitais, telecomunicações, instalações elétricas prediais e industriais, sistemas de geração e transmissão de energia, além de automação industrial e robótica.
+
 ## Keywords
 
 | pt-br | en-us | used | common |
