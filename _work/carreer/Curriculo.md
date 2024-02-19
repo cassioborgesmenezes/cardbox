@@ -25,26 +25,26 @@ O curso de Engenharia Elétrica oferece formação plena, para projetar e atuar 
 
 | pt-br | en-us | used | common |
 | ---- | ---- | ---- | ---- |
-|  | Data Analysis | - [x] |  |
-|  | SQL | - [x] | - [x] |
 |  | Analytics | - [x] |  |
-|  | Analytical Skills | - [x] |  |
-|  | Databases | - [x] |  |
-|  | Business Intelligence (BI) | - [x] |  |
+|  | Data Analysis | - [x] |  |
 |  | Data Analytics | - [x] |  |
+|  | Business Analysis | - [x] |  |
+|  | Business Intelligence (BI) | - [x] |  |
 |  | Software Development | - [x] | - [x] |
-|  | Engineering | - [x] | - [x] |
-|  | Communication | - [x] | - [x] |
-|  | Problem Solving | - [x] | - [x] |
-|  | Business Analysis |  |  |
-|  | Microsoft SQL Server |  |  |
+|  | Scrum | - [x] |  |
+|  | Agile Methodologies | - [ ] |  |
+|  | Engineering | - [ ] | - [x] |
 |  | Java | - [x] |  |
-|  | Agile Methodologies | - [x] |  |
+|  | Databases | - [x] |  |
+|  | SQL | - [x] | - [x] |
+|  | Microsoft SQL Server | - [x] |  |
 |  | JavaScript | - [x] |  |
 |  | HTML | - [x] |  |
 |  | Cloud Computing | - [x] |  |
-|  | Scrum |  |  |
-|  | Linux |  |  |
+|  | Linux | - [x] |  |
+|  | Communication | - [x] | - [x] |
+|  | Problem Solving | - [x] | - [x] |
+|  | Analytical Skills | - [x] |  |
 ## Referências
 <!-- Links to pages not referenced in the content -->
 

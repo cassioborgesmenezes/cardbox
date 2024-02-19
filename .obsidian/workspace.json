@@ -8,6 +8,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fa71d73501f8ffca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_learning/conquer+/Do R ao H.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "44050aa24e2deaf3",
             "type": "leaf",
             "state": {
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_work/carreer/Curriculo.md",
+                "file": "_learning/conquer+/Do R ao H.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_work/carreer/Curriculo.md",
+                "file": "_learning/conquer+/Do R ao H.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_work/carreer/Curriculo.md"
+                "file": "_learning/conquer+/Do R ao H.md"
               }
             }
           },
@@ -216,30 +229,32 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44050aa24e2deaf3",
+  "active": "fa71d73501f8ffca",
   "lastOpenFiles": [
-    "_work/carreer/Oportunidades.md",
+    "_attachments/conquer+raoh-ferramenta.xlsx",
+    "_attachments/Não confirmado 267006.crdownload",
+    "_attachments/conquer+raoh-modulo-01.pdf",
+    "_attachments/conquer+raoh-modulo-01.pdf.crdownload",
+    "_attachments/conquer+raoh-estrutura-iniciativas.pdf",
+    "_attachments/conquer+raoh-estrutura-iniciativas.pdf.crdownload",
+    "_attachments/conquer+raoh-estrutura-iniciativas-preenchido.pdf",
+    "_attachments/conquer+raoh-estrutura-iniciativas-preenchido.pdf.crdownload",
+    "_attachments/conquer+raoh-definindo-persona.pdf",
+    "_attachments/conquer+raoh-definindo-persona.pdf.crdownload",
     "_work/carreer/Curriculo.md",
+    "_attachments/Live25_Making_comparisons.pdf.crswap",
+    "_learning/conquer+/Do R ao H.md",
+    "_learning/conquer+produtividade/Produtividade e Performance.md",
+    "_work/carreer/Oportunidades.md",
     "_learning/pte/_Palavras Chave.md",
     "_learning/pte/_Programa Trocando de Emprego.md",
     "_timestamps/meetings/2024-02-06 Atualizacao Versao Sankhya.md",
-    "_attachments/pte-03-02-EncontrandoSeusPorques.pdf",
-    "_attachments/Programa Trocando de Emprego - Encontrando seus Porquês.pdf.crdownload",
-    "_attachments/pte-03-01-FerramentaValores.pdf",
     "_attachments/Pasted image 20240206150803.png",
     "_attachments/Pasted image 20240206143729.png",
     "_learning/english/British Council.md",
-    "_learning/conquer+produtividade/Produtividade e Performance.md",
     "notes/permanent/Network - Building.md",
     "notes/permanent/Fabrício Panice.md",
     "notes/permanent/Networking.md",
-    "_attachments/conquer+desafio.pdf",
-    "_attachments/conquer+bussula-do-ano.pdf",
-    "_attachments/Não confirmado 306377.crdownload",
-    "_attachments/conquer+planner.pdf",
-    "_attachments/conquer+guia-alimentacao-saudavel.pdf",
-    "_attachments/Não confirmado 315317.crdownload",
-    "_attachments/conquer+modulo-04.pdf",
     "notes/fleeting/Intelligence.md",
     "_attachments/british-council-evaluating-performance-job-description.png",
     "_attachments/british-council-evaluating-performance-candidate-d.png",
@@ -261,8 +276,6 @@
     "_work/meeting/20230508-narwal-kickoff.md",
     "_work/meeting/20230508-azship-integracao.md",
     "_work/meeting/20230505-itone.md",
-    "_work/meeting/20230505-apresentacao-mega-senior.md",
-    "_work/meeting/20230424-narwal.md",
-    "_work/meeting/20230424-inventario-logistica.md"
+    "_work/meeting/20230505-apresentacao-mega-senior.md"
   ]
 }
