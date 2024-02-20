@@ -20,6 +20,8 @@ modified: 2024-02-16, 08:28
 | M1E6 | Estruturando iniciativas - Parte II | https://player.vimeo.com/video/896300077?autoplay=1&app_id=122963 |
 | M1E7 | e-book |  |
 | M1E8 | Canais de comunicação |  |
+| M1EB | O papel da organização na construção da felicidade corporativa | https://player.vimeo.com/video/902991149?autoplay=1&app_id=122963 |
+|  |  |  |
 ## Conceitos Chave
 
 ## Datas Importantes
