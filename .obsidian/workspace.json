@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_learning/conquer+/Do R ao H.md",
+                "file": "notes/permanent/Eu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3d0aca6a636a3c61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -139,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_learning/conquer+/Do R ao H.md",
+                "file": "notes/permanent/Eu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_learning/conquer+/Do R ao H.md",
+                "file": "notes/permanent/Eu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_learning/conquer+/Do R ao H.md"
+                "file": "notes/permanent/Eu.md"
               }
             }
           },
@@ -231,19 +241,25 @@
   },
   "active": "fa71d73501f8ffca",
   "lastOpenFiles": [
+    "notes/permanent/Network - Building.md",
+    "notes/permanent/Networking.md",
+    "_learning/mdc/Mentoria de Carreira.md",
+    "notes/permanent/Eu.md",
+    "_work/carreer/Curriculo.md",
+    "_timestamps/meetings/_MeetingsMoc.md",
+    "_attachments/mdc-roda-da-vida.pdf",
+    "_attachments/RODA+DA+VIDA.pdf.crdownload",
+    "_attachments/mdc-instrucoes-pontos-fortes.pdf",
+    "_attachments/Instruc_o_es+Pontos+Fortes.docx.pdf.crdownload",
+    "_learning/mdc",
+    "_learning/Untitled.md",
+    "_attachments/mdc-encontro-1.pdf",
+    "_attachments/MDC+-+Encontro+1.pdf.crdownload",
+    "_timestamps/meetings/2024-02-21 101 Matheus.md",
+    "_learning/conquer+/Do R ao H.md",
     "_attachments/conquer+raoh-ferramenta.xlsx",
     "_attachments/Não confirmado 267006.crdownload",
     "_attachments/conquer+raoh-modulo-01.pdf",
-    "_attachments/conquer+raoh-modulo-01.pdf.crdownload",
-    "_attachments/conquer+raoh-estrutura-iniciativas.pdf",
-    "_attachments/conquer+raoh-estrutura-iniciativas.pdf.crdownload",
-    "_attachments/conquer+raoh-estrutura-iniciativas-preenchido.pdf",
-    "_attachments/conquer+raoh-estrutura-iniciativas-preenchido.pdf.crdownload",
-    "_attachments/conquer+raoh-definindo-persona.pdf",
-    "_attachments/conquer+raoh-definindo-persona.pdf.crdownload",
-    "_work/carreer/Curriculo.md",
-    "_attachments/Live25_Making_comparisons.pdf.crswap",
-    "_learning/conquer+/Do R ao H.md",
     "_learning/conquer+produtividade/Produtividade e Performance.md",
     "_work/carreer/Oportunidades.md",
     "_learning/pte/_Palavras Chave.md",
@@ -252,9 +268,7 @@
     "_attachments/Pasted image 20240206150803.png",
     "_attachments/Pasted image 20240206143729.png",
     "_learning/english/British Council.md",
-    "notes/permanent/Network - Building.md",
     "notes/permanent/Fabrício Panice.md",
-    "notes/permanent/Networking.md",
     "notes/fleeting/Intelligence.md",
     "_attachments/british-council-evaluating-performance-job-description.png",
     "_attachments/british-council-evaluating-performance-candidate-d.png",
@@ -268,14 +282,10 @@
     "notes/permanent/Prompt Gestao de Projetos.md",
     "notes/fleeting/Artificial Inteligence (AI).md",
     "_learning/sap/Composing and automating with SAP Build the No-Code Way.md",
-    "_timestamps/meetings/_MeetingsMoc.md",
     "_timestamps/meetings/2023-12-22-wms-refresh.md",
     "_work/meeting/20230124-juntos.md",
     "_work/meeting/20230519-lg.md",
     "_work/meeting/20230511-master-estoque.md",
-    "_work/meeting/20230508-narwal-kickoff.md",
-    "_work/meeting/20230508-azship-integracao.md",
-    "_work/meeting/20230505-itone.md",
-    "_work/meeting/20230505-apresentacao-mega-senior.md"
+    "_work/meeting/20230508-narwal-kickoff.md"
   ]
 }
